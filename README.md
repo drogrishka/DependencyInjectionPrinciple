@@ -1,1 +1,1 @@
-# DependencyInjectionPrinciple
+# DependencyInversionPrinciple
